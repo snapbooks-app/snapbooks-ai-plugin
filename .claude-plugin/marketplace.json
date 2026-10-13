@@ -1,0 +1,15 @@
+{
+  "name": "snapbooks",
+  "description": "The Snapbooks plugin for Norwegian accounting, published by Snapbooks AS.",
+  "owner": {
+    "name": "Snapbooks AS",
+    "email": "hei@snapbooks.no"
+  },
+  "plugins": [
+    {
+      "name": "snapbooks",
+      "source": "./",
+      "description": "Norwegian accounting in Snapbooks from Claude: look up the books, read vouchers, check bank transactions, prepare journal entries, invoices, bank postings and payroll changes for you to approve."
+    }
+  ]
+}

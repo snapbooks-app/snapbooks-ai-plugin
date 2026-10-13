@@ -1,0 +1,20 @@
+{
+  "name": "snapbooks",
+  "displayName": "Snapbooks",
+  "version": "1.0.0",
+  "description": "Norwegian accounting in Snapbooks from Claude: look up the books, read vouchers, check bank transactions, prepare journal entries, invoices, bank postings and payroll changes for you to approve.",
+  "author": {
+    "name": "Snapbooks AS",
+    "email": "hei@snapbooks.no",
+    "url": "https://snapbooks.no"
+  },
+  "homepage": "https://developer.snapbooks.no/mcp",
+  "repository": "https://github.com/snapbooks-app/snapbooks-ai-plugin",
+  "license": "MIT",
+  "keywords": [
+    "snapbooks",
+    "snapbooks accounting",
+    "snapbooks regnskap",
+    "snapbooks bokføring"
+  ]
+}
