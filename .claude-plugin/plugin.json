@@ -8,7 +8,10 @@
     "email": "hei@snapbooks.no",
     "url": "https://snapbooks.no"
   },
-  "homepage": "https://developer.snapbooks.no/mcp",
+  "homepage": "https://snapbooks.no",
+  "documentationUrl": "https://developer.snapbooks.no/mcp",
+  "supportUrl": "https://snapbooks.no/kontakt/",
+  "termsOfServiceUrl": "https://hjelp.snapbooks.no/avtaler/tjenestevilk%C3%A5r-for-snapbooks",
   "privacyPolicyUrl": "https://hjelp.snapbooks.no/avtaler/privacy-ai-assistants",
   "repository": "https://github.com/snapbooks-app/snapbooks-ai-plugin",
   "license": "MIT",
